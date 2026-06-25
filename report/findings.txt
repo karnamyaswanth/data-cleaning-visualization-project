@@ -1,0 +1,20 @@
+
+DATA CLEANING SUMMARY
+---------------------
+1. Checked for missing values.
+2. Removed duplicate records.
+3. Saved cleaned dataset.
+
+KEY FINDINGS
+------------
+1. Heart disease cases and non-cases were identified.
+2. Most patients belong to middle and older age groups.
+3. Cholesterol levels vary among patients.
+4. Correlation analysis revealed relationships among attributes.
+5. Age and cholesterol show noticeable patterns.
+
+CONCLUSION
+----------
+The dataset was successfully cleaned and analyzed.
+Visualizations helped identify trends and relationships
+associated with heart disease.
